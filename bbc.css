@@ -1,0 +1,337 @@
+body{
+    margin: 0;
+    padding:0;
+}
+#topbar{
+    width: 1415px;
+    height: 44px;
+    margin: 0 auto;
+}
+#logo{
+    width: 102px;
+    margin-top: 5px;
+    float: left;
+    margin-right: 14px;
+    }
+.top-section{
+    float: left;
+    border-left: 1px #cccccc solid;
+    height: 100%;
+}
+#signinimage{
+    width: 20px;
+    margin-top:12px;
+    margin-left: 18px
+}
+#signin{
+    font-weight: bold;
+    font-family: Arial,freesans,sans-serif;
+    font-size: 14px;
+    position: relative;
+    bottom: 4px;
+    left: 5px;
+    
+    
+}
+#signin-div{
+    margin-right: 105px;
+    float: left;
+}
+.topbar-text{
+    font-weight:bold;
+    font-family: Arial,freesans,sans-serif;
+    font-size: 14px;
+    position: relative;
+    top: 14px; 
+    padding-left: 24px;
+    padding-right: 24px;
+    
+    
+}
+#down-arrow{
+    margin-left: 35px;
+    margin-right: 5px;
+    position: relative;
+    width: 15px ; 
+    top: 17px;
+    
+
+}
+#top-searchbar{
+    margin-left: 20px;
+    margin-top:10px;
+    height: 25px;
+    width: 180px;
+    background-color: #CCCCCC;
+    border: 0;
+    padding: 0;
+}
+::placeholder{
+    font-weight: bold;
+    color: black;
+    opacity: 1;
+    padding-left: 5px;
+}
+#search-image{
+    width: 32px;
+    margin-top: 7px;
+    margin-left: 0;
+}
+#upper-red{
+    height: 75px;
+    background-color: #BB1919;
+    margin: 0 auto;
+}
+#lower-red{
+    background-color: #BB1919;
+    height: 30px;
+    margin: 0 auto;
+}
+#upred-news{
+    color: white;
+    font-size: 47px;
+    font-family: Arial,freesans,sans-serif;
+    padding-left: 53px;
+    position: relative;
+    top: 11px;
+}
+
+#lowred-1{
+    margin-left: 53px;
+}
+#lowred-home{
+    color: white;
+    font-family: Arial,freesans,sans-serif;
+    position: relative;
+    top: 2px;
+    float: left;
+    padding-right: 10px;
+}
+.lowred-lines{
+    border-left: 1px #cccccc solid;
+    height: 50%;
+    float: left;
+    margin-top: 4px;
+}
+.lowred-font{
+    color: white;
+    font-family: Arial, freesans, sans-serif;
+    position: relative;
+    bottom: 2px;
+    padding-left: 14px;
+    padding-right: 14px;
+}
+#lowred-arrow{
+    margin-left: 0px;
+    margin-right: 5px;
+    position: relative;
+    width: 15px ; 
+    top: 4px;
+}
+#lowred-home a{
+    color: white;
+    text-decoration: none;
+}
+#lowred-home a:hover{
+    text-decoration:underline;
+}
+.lowred-font a{
+    color: white;
+    text-decoration: none;
+}
+.lowred-font a:hover{
+    text-decoration: underline;
+}
+#page-container{
+    width: 1415px;
+    margin: 0 auto;
+    height: 1000px;
+    
+}
+h1 a:hover{
+    color: rgb(47, 140, 216);
+    text-decoration: underline;
+}
+h1 a{
+    text-decoration: none;
+    color: black;
+}
+h1{
+font-family: Helvetica,Arial,freesans,sans-serif;
+font-size: 32px;
+width: 260px;
+
+}
+#main-article{
+    float: left;}
+
+.marticle-detail{
+    font-family:Helvetica,Arial,freesans,sans-serif;
+    color: #5a5a5a;
+    width: 260px;
+    float: left;
+    margin-top: -30px;
+    font-size: 16px;
+    line-height: 19px;
+}
+.clock{
+    width: 20px;
+    margin-top:-10px;            
+}
+
+.clock-position{
+    color:#5a5a5a;
+    position: relative;
+    top: -6px;
+    font-size: 16px;
+}
+.clock-position a{
+    color:#5a5a5a;
+    text-decoration: none;
+    position: relative;
+    left: 5px;
+}
+#trump-image{
+    position: relative;
+    top: -130px;
+    left: 25px;
+    width: 540px;
+}
+#rside-news1{
+    position: relative;
+    left: 45px;
+    top: 23px;
+    float: left;
+    
+}
+#fire-building{
+    width: 257px;
+    float: left;
+}
+h2{
+    font-family: Helvetica,Arial,freesans,sans-serif;
+    font-size: 18px;
+    position: relative;
+    top: -8px;  
+}
+.news-detail{
+    position: relative;
+    top: -15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5a5a5a;
+}
+#rside-news2{
+    position: relative;
+    top: 23px;
+    left: 60px;
+    float: left;
+}
+#news-line2{
+    width: 1415px;
+    margin: 0 auto;
+    float: left;
+    position: relative;
+    top: -130px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+#l1{
+    float: left;
+    position: relative;
+    right: 20px;
+}
+#l2{
+    float: left;
+    position: relative;
+    left: 80px;
+}
+#l3{
+    position: relative;
+    left: 140px;
+}
+#news-line2 a{
+    color: black;
+    text-decoration: none;
+}
+#news-line2 a:hover{
+    color: rgb(24, 130, 190);
+    text-decoration: underline;
+}
+
+
+#boat{
+    float: left;
+    position: relative;
+    top: -90px;
+    width: 257px;
+}
+#news-line3{
+    margin: 0 auto;
+    float: left; 
+    width: 1415px;
+}
+#line3-detail{
+    float: left;
+    margin: 0 auto;
+    position: relative;
+    top: 60px;
+    left: -260px;   
+}
+#leg{
+    width: 257px;
+    position: relative;
+    top: -90px;
+    left: -240px;
+    float: left;
+}
+#line3-detail2{
+    position: relative;
+    left: -498px;
+    top: 60px;
+    float: left;
+}
+#people{
+    width: 257px;
+    position: relative;
+    left: -480px;
+    top: -90px;
+    float: left;
+}
+#line3-detail3{
+    position: relative;
+    left: -480px;
+    top: -88px;
+    float: left;
+}
+#news-list1{
+    float: left;
+    position: relative;
+    left: 840px;
+    top: -425px;
+}
+.clock-line3{
+    position: relative;
+    top: -10px;
+}
+.list1{
+    position: relative;
+    top: -10px;
+}
+h2 a{
+    text-decoration: none;
+    color: black;
+}
+h2 a:hover{
+    text-decoration: underline;
+    color: rgb(17, 155, 173);
+}#news-list2{
+    float: left;
+    position: relative;
+    top: -423px;
+    left: 857px;
+}
+body a:hover{
+    text-decoration: underline;
+    color: rgb(17, 155, 173);
+}
